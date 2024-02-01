@@ -1,0 +1,22 @@
+.loginContainer{
+    background-color: #aaa;
+    width: 100vw;
+    height: 100vh;
+    .cardContainer{
+        width: 450px;
+        height: 350px;
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        .cardTitle{
+            text-align: center;
+        }
+        .formContainer{
+            padding: 20px;
+        }
+        .loginBtn{
+            width: 100%;
+        }
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "ak": [
+        {
+            "useFor": "food",
+            "money": -211.45,
+            "date": "Mon Jan 29 2024 19:18:39 GMT+0800",
+            "type": "pay",
+            "id": 1
+          },
+          {
+            "useFor": "drinks",
+            "money": -254.96,
+            "date": "Mon Jan 29 2024 00:06:39 GMT+0800",
+            "type": "pay",
+            "id": 2
+          },
+          {
+            "useFor": "dessert",
+            "money": -120.14,
+            "date": "Sun Jan 28 2024 04:54:39 GMT+0800",
+            "type": "pay",
+            "id": 3
+          },
+          {
+            "useFor": "cloth",
+            "money": -105.64,
+            "date": "Sat Jan 27 2024 09:42:39 GMT+0800",
+            "type": "pay",
+            "id": 4
+          },
+          {
+            "useFor": "food",
+            "money": -78.72,
+            "date": "Fri Jan 26 2024 14:30:39 GMT+0800",
+            "type": "pay",
+            "id": 5
+          },
+          {
+            "useFor": "drinks",
+            "money": -206,
+            "date": "Thu Jan 25 2024 19:18:39 GMT+0800",
+            "type": "pay",
+            "id": 6
+          },
+          {
+            "useFor": "dessert",
+            "money": -8.31,
+            "date": "Thu Jan 25 2024 00:06:39 GMT+0800",
+            "type": "pay",
+            "id": 7
+          },
+          {
+            "useFor": "cloth",
+            "money": -170.84,
+            "date": "Wed Jan 24 2024 04:54:39 GMT+0800",
+            "type": "pay",
+            "id": 8
+          },
+          {
+            "useFor": "food",
+            "money": -182.93,
+            "date": "Tue Jan 23 2023 09:42:39 GMT+0800",
+            "type": "pay",
+            "id": 9
+          },
+          {
+            "useFor": "drinks",
+            "money": -101.23,
+            "date": "Mon Jan 22 2024 14:30:39 GMT+0800",
+            "type": "pay",
+            "id": 10
+          },
+          {
+            "useFor": "dessert",
+            "money": -273.02,
+            "date": "Sun Jan 21 2024 19:18:39 GMT+0800",
+            "type": "pay",
+            "id": 11
+          },
+          {
+            "useFor": "cloth",
+            "money": -99.04,
+            "date": "Sun Jan 21 2024 00:06:39 GMT+0800",
+            "type": "pay",
+            "id": 12
+          },
+          {
+            "useFor": "food",
+            "money": -130.44,
+            "date": "Sat Jan 20 2024 04:54:39 GMT+0800",
+            "type": "pay",
+            "id": 13
+          },
+          {
+            "useFor": "drinks",
+            "money": -175.36,
+            "date": "Fri Feb 19 2023 09:42:39 GMT+0800",
+            "type": "pay",
+            "id": 14
+          },
+          {
+            "useFor": "dessert",
+            "money": -25.92,
+            "date": "Thu Jan 18 2024 14:30:39 GMT+0800",
+            "type": "pay",
+            "id": 15
+          },
+          {
+            "useFor": "cloth",
+            "money": -81.45,
+            "date": "Wed Jan 17 2024 19:18:39 GMT+0800",
+            "type": "pay",
+            "id": 16
+          },
+          {
+            "useFor": "food",
+            "money": -294.2,
+            "date": "Wed Jan 17 2024 00:06:39 GMT+0800",
+            "type": "pay",
+            "id": 17
+          },
+          {
+            "useFor": "drinks",
+            "money": -92.22,
+            "date": "Tue Jan 16 2024 04:54:39 GMT+0800",
+            "type": "pay",
+            "id": 18
+          },
+          {
+            "useFor": "dessert",
+            "money": -175.34,
+            "date": "Mon Jan 15 2024 09:42:39 GMT+0800",
+            "type": "pay",
+            "id": 19
+          },
+          {
+            "useFor": "cloth",
+            "money": -175.54,
+            "date": "Sun Jan 14 2024 14:30:39 GMT+0800",
+            "type": "pay",
+            "id": 20
+          },
+          {
+            "useFor": "food",
+            "money": -76.09,
+            "date": "Sat Jan 13 2024 19:18:39 GMT+0800",
+            "type": "pay",
+            "id": 21
+          },
+          {
+            "useFor": "drinks",
+            "money": -22.11,
+            "date": "Sat Jan 13 2024 00:06:39 GMT+0800",
+            "type": "pay",
+            "id": 22
+          },
+          {
+            "useFor": "dessert",
+            "money": -166.1,
+            "date": "Fri Jan 12 2023 04:54:39 GMT+0800",
+            "type": "pay",
+            "id": 23
+          },
+          {
+            "useFor": "cloth",
+            "money": -182.24,
+            "date": "Thu Jan 11 2024 09:42:39 GMT+0800",
+            "type": "pay",
+            "id": 24
+          },
+          {
+            "useFor": "food",
+            "money": -227.54,
+            "date": "Wed Jan 10 2024 14:30:39 GMT+0800",
+            "type": "pay",
+            "id": 25
+          },
+          {
+            "useFor": "drinks",
+            "money": -43.94,
+            "date": "Tue Feb 09 2023 19:18:39 GMT+0800",
+            "type": "pay",
+            "id": 26
+          },
+          {
+            "useFor": "dessert",
+            "money": -152.54,
+            "date": "Tue Jan 09 2024 00:06:39 GMT+0800",
+            "type": "pay",
+            "id": 27
+          },
+          {
+            "useFor": "cloth",
+            "money": -97.08,
+            "date": "Mon Jan 08 2024 04:54:39 GMT+0800",
+            "type": "pay",
+            "id": 28
+          },
+          {
+            "useFor": "food",
+            "money": -276.19,
+            "date": "Sun Jan 07 2024 09:42:39 GMT+0800",
+            "type": "pay",
+            "id": 29
+          },
+          {
+            "useFor": "drinks",
+            "money": -128.75,
+            "date": "Sat Jan 06 2024 14:30:39 GMT+0800",
+            "type": "pay",
+            "id": 30
+          }
+    ]
+}
